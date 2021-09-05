@@ -1,4 +1,3 @@
-//colorbrewer2.org for color advice
 let countyURL =
     "https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/counties.json";
 let educationURL =
