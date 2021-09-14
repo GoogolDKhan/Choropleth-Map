@@ -23,6 +23,6 @@
 
 - This project is inspired by [FCC: D3 Choropleth Map](https://codepen.io/freeCodeCamp/full/EZKqza)
 
-- Cheers to Ganesh H for providing an awesome [video tutorial](https://youtube.com/playlist?list=PLhGp6N0DI_1Rhbflgl9M4ntZNQNsg4G26) and [writen guide](https://www.notion.so/Visualize-Data-with-a-Choropleth-Map-9d91d46e78d4406abc6a0d36f9e089dc)
+- Cheers to Ganesh H for providing an awesome [writen guide](https://www.notion.so/Visualize-Data-with-a-Choropleth-Map-9d91d46e78d4406abc6a0d36f9e089dc)
 
 - Dated : 24-06-2021
